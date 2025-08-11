@@ -20,14 +20,14 @@ Play against another player locally with a clean and responsive interface.
 
 - **HTML5** – Structure and content
 - **CSS3** – Styling, layout, and responsiveness
-- **JavaScript (Vanilla JS)** – Game logic and interactivity
+- **JavaScript** – Game logic and interactivity
 
 ---
 
 ## 📥 Installation & Usage
 
 1. **Clone this repository**
-   
+   https://github.com/Adu-2004/Tic-Tac-Toe.git
 
  3. **Open the game**
 - Double-click **`index.html`** or open it in your web browser.
@@ -43,33 +43,3 @@ Play against another player locally with a clean and responsive interface.
 5. Click **Restart** to play again.
 
 ---
-
-## 📸 Screenshots
-
-*(Add game screenshots here)*  
-Example:  
-![Tic-Tac-Toe Screenshot](./screenshot.png)
-
----
-
-## 📌 Future Enhancements
-
-- 🤖 **Add AI mode** to play against the computer.
-- 🏆 **Scoreboard** to track wins.
-- 🌐 **Online Multiplayer** with WebSockets.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** – you’re free to use, copy, and modify it.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-Feel free to fork the repo, improve the game, and submit a pull request.
-
----
-
